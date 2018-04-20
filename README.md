@@ -1,8 +1,4 @@
-# Quirky_Challenge_Question
-
-The final challenge question asked in the interview process for EE
-Summer Firmware Engineer Intern position. The prompt is as follows:
-
+#Hex2Int And 8-Bit Int to 32-bit Int
 
 Function should parse a hex string, and turn it into an array
 of 8-bit integers.
